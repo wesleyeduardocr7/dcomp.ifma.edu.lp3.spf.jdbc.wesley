@@ -1,0 +1,6 @@
+
+use spfwesley;
+
+show tables;
+
+

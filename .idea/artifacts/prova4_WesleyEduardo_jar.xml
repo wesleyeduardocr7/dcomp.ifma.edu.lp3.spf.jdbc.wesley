@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prova4.WesleyEduardo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prova4_WesleyEduardo_jar</output-path>
+    <root id="archive" name="prova4.WesleyEduardo.jar">
+      <element id="module-output" name="prova5.jdbc.wesleyeduardo" />
+    </root>
+  </artifact>
+</component>
